@@ -13,7 +13,6 @@
 ✅ **SIEM & Security Automation**  
 ✅ **Cloud Security (AWS, Azure, GCP)**  
 ✅ **Penetration Testing & Red Teaming**  
-✅ **Zero Trust Architecture & IAM Security**  
 
 ---
 

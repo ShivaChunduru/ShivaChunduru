@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Shiva Chunduru!  
 
-🔹 **Senior Cybersecurity Analyst**  
 🔹 Specializing in **Threat Detection, Digital Forensics, and Incident Handling**  
 🔹 Passionate about **Security Automation, Threat Intelligence, and Cloud Security**  
 
